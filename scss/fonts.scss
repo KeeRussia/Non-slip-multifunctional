@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'Inter-bold-italic';
+  src: url('../fonts/Inter/Inter-BoldItalic.eot');
+  src: local('../fonts/Inter/Inter Bold Italic'), local('Inter-BoldItalic'),
+      url('../fonts/Inter/Inter-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-BoldItalic.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-BoldItalic.woff') format('woff'),
+      url('../fonts/Inter/Inter-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter-500';
+  src: url('../fonts/Inter/Inter-Medium.eot');
+  src: local('../fonts/Inter/Inter Medium'), local('Inter-Medium'),
+      url('../fonts/Inter/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-Medium.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-Medium.woff') format('woff'),
+      url('../fonts/Inter/Inter-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-700';
+  src: url('../fonts/Inter/Inter-Bold.eot');
+  src: local('../fonts/Inter/Inter Bold'), local('Inter-Bold'),
+      url('../fonts/Inter/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-Bold.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-Bold.woff') format('woff'),
+      url('../fonts/Inter/Inter-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-800-italic';
+  src: url('../fonts/Inter/Inter-ExtraBoldItalic.eot');
+  src: local('../fonts/Inter/Inter Extra Bold Italic'), local('Inter-ExtraBoldItalic'),
+      url('../fonts/Inter/Inter-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-ExtraBoldItalic.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-ExtraBoldItalic.woff') format('woff'),
+      url('../fonts/Inter/Inter-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter-600-italic';
+  src: url('../fonts/Inter/Inter-SemiBoldItalic.eot');
+  src: local('../fonts/Inter/Inter Semi Bold Italic'), local('Inter-SemiBoldItalic'),
+      url('../fonts/Inter/Inter-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-SemiBoldItalic.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-SemiBoldItalic.woff') format('woff'),
+      url('../fonts/Inter/Inter-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter-normal';
+  src: url('../fonts/Inter/Inter-Regular.eot');
+  src: local('../fonts/Inter/Inter Regular'), local('Inter-Regular'),
+      url('../fonts/Inter/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-Regular.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-Regular.woff') format('woff'),
+      url('../fonts/Inter/Inter-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-bold-normal';
+  src: url('../fonts/Inter/Inter-Bold.eot');
+  src: local('../fonts/Inter/Inter Bold'), local('Inter-Bold'),
+      url('../fonts/Inter/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-Bold.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-Bold.woff') format('woff'),
+      url('../fonts/Inter/Inter-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-600-normal';
+  src: url('../fonts/Inter/Inter-SemiBold.eot');
+  src: local('../fonts/Inter/Inter Semi Bold'), local('Inter-SemiBold'),
+      url('../fonts/Inter/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-SemiBold.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-SemiBold.woff') format('woff'),
+      url('../fonts/Inter/Inter-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-500-italic';
+  src: url('../fonts/Inter/Inter-MediumItalic.eot');
+  src: local('../fonts/Inter/Inter Medium Italic'), local('Inter-MediumItalic'),
+      url('../fonts/Inter/Inter-MediumItalic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Inter/Inter-MediumItalic.woff2') format('woff2'),
+      url('../fonts/Inter/Inter-MediumItalic.woff') format('woff'),
+      url('../fonts/Inter/Inter-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('../fonts/Raleway/Raleway-Bold.eot');
+  src: local('../fonts/Raleway/Raleway Bold'), local('Raleway-Bold'),
+      url('../fonts/Raleway/Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Raleway/Raleway-Bold.woff2') format('woff2'),
+      url('../fonts/Raleway/Raleway-Bold.woff') format('woff'),
+      url('../fonts/Raleway/Raleway-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Raleway-normal';
+  src: url('../fonts/Raleway/Raleway-Regular.eot');
+  src: local('../fonts/Raleway/Raleway'), local('Raleway-Regular'),
+      url('../fonts/Raleway/Raleway-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Raleway/Raleway-Regular.woff2') format('woff2'),
+      url('../fonts/Raleway/Raleway-Regular.woff') format('woff'),
+      url('../fonts/Raleway/Raleway-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat/Montserrat/Montserrat-Regular.eot');
+	src: local('../fonts/Montserrat/Montserrat/Montserrat Regular'), local('Montserrat-Regular'),
+		url('../fonts/Montserrat/Montserrat/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat/Montserrat/Montserrat-Regular.woff') format('woff'),
+		url('../fonts/Montserrat/Montserrat/Montserrat-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
